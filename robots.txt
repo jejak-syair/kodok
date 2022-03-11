@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://jejak-syair.github.io/kodok/sitemap.xml
